@@ -1,3 +1,8 @@
++++
+date = '2026-01-30T13:49:42+01:00'
+title = 'First Post'
++++
+
 # My first blog post
 
 Hello world!

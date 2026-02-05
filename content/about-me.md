@@ -1,3 +1,8 @@
++++
+date = '2026-01-30T13:53:53+01:00'
+title = 'About Me'
++++
+
 # About me
 
 The name is Anis, Med Anis Jbara. Most people just call me Jbara.

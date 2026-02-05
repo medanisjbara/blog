@@ -1,4 +1,31 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jbara.xyz/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'hugo-xmin'
+title = 'Jbara - Blog'
+theme = 'hello-friend-ng'
+
+[params]
+  # The theme supports "light" or "dark" (default)
+  defaultTheme = "dark"
+  
+  # Date format
+  dateform = "Jan 2, 2006"
+  dateformShort = "Jan 2"
+  dateformNum = "2006-01-02"
+
+  # Display read time and "Last modified"
+  showReadingTime = true
+  
+  # Menu items to show before "More" (0 shows all)
+  showMenuItems = 2
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about-me/"
+    weight = 1
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 2

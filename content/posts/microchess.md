@@ -1,3 +1,9 @@
++++
+date = '2026-01-30T13:55:41+01:00'
+draft = true
+title = 'Microchess'
++++
+
 # Improving Microchess Portability
 
 Microchess is the first commercial chess engine made for the 6502 powered KIM-1. It is a brilliant and facinating piece of engineering that I honestly do not fully understand yet.
