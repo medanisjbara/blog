@@ -33,7 +33,7 @@ microchess.s(73): Error: ':' expected
 microchess.s(84): Error: ':' expected
 microchess.s(88): Error: ':' expected
 ```
-Apparently every label in the original doesn't end with a column and `ca65` expects all assembly labels to have a column at the end. That's an easy one. Step 1 complete.
+Apparently every label in the original doesn't end with a colon and `ca65` expects all assembly labels to have a colon at the end. That's an easy one. Step 1 complete.
 
 ```
 microchess.s(71): Error: Unexpected trailing garbage characters
